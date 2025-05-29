@@ -6,8 +6,11 @@ Each project explores a different dataset and analytical technique to demonstrat
 ## Course Overview
 
 **Course**: CDS 5950 – Computational Data Science Capstone  
+
 **Semester**: Spring 2025  
+
 **Instructor**: Dr. Andy Rundquist
+
 **Objective**: To apply data science techniques to real-world data through weekly exploratory projects that culminate in a final capstone analysis.
 
 ## Weekly Project Highlights
