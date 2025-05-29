@@ -11,7 +11,7 @@ Each project explores a different dataset and analytical technique to demonstrat
 
 **Instructor**: Dr. Andy Rundquist
 
-**Objective**: To apply data science techniques to real-world data through weekly exploratory projects that culminate in a final capstone analysis.
+**Objective**: To apply data science techniques to real-world data through weekly exploratory projects.
 
 ## Weekly Project Highlights
 
